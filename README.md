@@ -1,16 +1,18 @@
-# myflutterapp
+# How to Create Flutter Financial Charts like Candle and OHLC in 10 Minutes
 
-A new Flutter project.
+A quick-start example to help you add the Syncfusion Flutter Charts package to a Flutter app. You will learn how to add a cartesian chart to a Flutter project. You will learn how to set a data source to the chart and how to add a Candle and OpenHighLowClose (OHLC) series to it. You will also see how to customize the primary axes; enable trackball, show legends, and add a title in the financial charts.
+Watch the video: Coming soon...
 
-## Getting Started
+Documentation: https://help.syncfusion.com/flutter/cartesian-charts/chart-types#candle 
 
-This project is a starting point for a Flutter application.
+## Requirements to run the demo
+* [VS Code](https://code.visualstudio.com/download)
+* [Flutter SDK v2.0.0+](https://flutter.dev/docs/development/tools/sdk/overview)
+* [For more development tools](https://flutter.dev/docs/development/tools/devtools/overview)
 
-A few resources to get you started if this is your first Flutter project:
+## How to run this application
+To run this application, you need to first clone or download the ‘how to create flutter financial charts like candle and ohlc in 10 minutes’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Further help
+For more help, check the [Syncfusion Flutter documentation](https://help.syncfusion.com/flutter/introduction/overview), or
+ [Flutter documentation](https://flutter.dev/docs/get-started/install).
